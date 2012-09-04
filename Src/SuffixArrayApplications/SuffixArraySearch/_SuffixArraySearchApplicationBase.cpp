@@ -5,6 +5,7 @@
 
 #include "_SuffixArraySearchApplicationBase.h"
 #include <iostream>
+#include <cstdlib>
 
 using namespace std;
 

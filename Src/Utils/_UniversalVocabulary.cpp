@@ -1,6 +1,6 @@
 #include "_UniversalVocabulary.h"
 #include "malloc.h"
-#include <string>
+#include <string.h>
 #include <fstream>
 #include <iostream>
 

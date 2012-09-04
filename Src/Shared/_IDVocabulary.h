@@ -2,7 +2,7 @@
 #define __IDVocabulary_H__INCLUDED_
 
 #include "_String.h"
-#include <string>
+#include <string.h>
 #include <map>
 #include <vector>
 #include "salm_shared.h"

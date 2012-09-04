@@ -8,6 +8,7 @@
 #include "_IDVocabulary.h"
 #include <fstream>
 #include <iostream>
+#include <cstdlib>
 
 using namespace std;
 

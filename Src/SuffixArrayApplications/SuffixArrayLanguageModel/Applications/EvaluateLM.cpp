@@ -4,7 +4,7 @@
 #include "_SuffixArrayLanguageModel.h"
 #include <iostream>
 #include <sstream>
-#include <string>
+#include <string.h>
 
 using namespace std;
 
